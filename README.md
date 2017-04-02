@@ -56,5 +56,33 @@ Sebelum mengatur database sebaiknya kita cek dulu database kita sudah ada atau t
 cek database pada root
 ```sh
 $ mysql -u root -p
-$ show database
+$ show database;
+$ use webmail;  
+$ show tables;
+```
+Jika belum ada database maka lakukan pengaturan database pada Webmail lite
+```sh
+- buka di browser http://172.18.88.93/afterlogic/adminpanel/
+- login
+- pilih tab "system --> Database Setting"
+- pilih "MySQL" pada "SQL type"
+- pada bagian "SQl login" masukkan nama tempat penyimpanan database webmail, karena database afterlogic terdapat pada root maka bagian      ini kita isi dengan "root"
+- masukkan password database pada SQl password
+- masukkan nama database yang digunakan pada "Database name", untuk database yang kami gunakan adalah "webmail"
+- pada bagian "Host" masukkan host yang digunakan. Pada bagian ini kita isi localhost.
+- Selanjutnya "test connection"
+- Kemudian save
+```
+3.Pengaturan login dengan gmail
+```sh
+- pada adminpanel pilih tab "Domains --> ceklis Name --> Default Setting"
+- pada bagian "Incoming mail" ganti dengan "imap.gmail.com" dan pada bagian "Port" diganti dengan "993", kemudian ceklis pada Use SSL
+- pada bagian "Outgoing mail" ganti dengan "smtp.gmail.com" dan pada bagian "Port" diganti dengan "465", kemudian ceklis pada Use SSL
+- Kemudian save
+```
+
+
+
+
+
 
