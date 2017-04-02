@@ -66,7 +66,7 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 - login
 - pilih tab "system --> Database Setting"
 - pilih "MySQL" pada "SQL type"
-- pada bagian "SQl login" masukkan nama tempat penyimpanan database webmail, karena database afterlogic terdapat pada root maka bagian      ini kita isi dengan "root"
+- pada bagian "SQl login" masukkan nama tempat penyimpanan database webmail, karena database afterlogic terdapat pada root maka bagian ini kita isi dengan "root"
 - masukkan password database pada SQl password
 - masukkan nama database yang digunakan pada "Database name", untuk database yang kami gunakan adalah "webmail"
 - pada bagian "Host" masukkan host yang digunakan. Pada bagian ini kita isi localhost.
