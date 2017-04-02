@@ -81,7 +81,7 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 - Kemudian save
 ```
 
-4.Pengaturan Dropbox
+4.Pengaturan Dropbox 
 
 5.Pengaturan akun afterlogic
 ```sh
