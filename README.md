@@ -96,7 +96,8 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 Masuk akun:
 1. Buka diweb browser http://172.18.88.93/afterlogic/
 2. Isi username dan password email. Pastikan akun email anda bisa diakses dengan web yang tidak aman.
-Muncul tampilan berikut
+
+  maka muncullah tampilan seperti berikut.
 
 
 
