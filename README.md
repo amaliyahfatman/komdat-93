@@ -81,6 +81,19 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 - Kemudian save
 ```
 
+4.Pengaturan Dropbox
+
+5.Pengaturan akun afterlogic
+```sh
+- Pilih "Manage Folder" pada akun afterlogic
+- Pilih "Eksternal Service"
+- Ceklist "Authentication" dan "File Storage"
+- Klik "Apply"
+```
+
+
+
+
 
 
 
