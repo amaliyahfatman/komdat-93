@@ -109,22 +109,23 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 ### Cara Pemakaian
 Masuk akun:
 1. Buka diweb browser http://172.18.88.93/afterlogic/
+![N|Soild](http://i.imgur.com/masukgm.png)
 2. Isi username dan password email. Pastikan akun email anda bisa diakses dengan web yang tidak aman.
 
   maka muncullah tampilan seperti berikut.
 
 
 Mengirim file  dengan webmail:
-1. Klik New Message
+1. Klik "New Message"
 2. Isi tujuan, subjeknya pada To dan Subject
 3. pilih file yang akan dikirim 
-4. kirim dengan klik SEND
+4. kirim dengan klik "SEND"
 
 Mengirim email dari file drobox:
-1. Klik New Message
+1. Klik "New Message"
 2. Isi tujuan, subjeknya pada To dan Subject
 3. pilih file yang akan dikirim 
-4. Kirim dengan klik SEND
+4. Kirim dengan klik "SEND"
 
 
 ### Referensi
