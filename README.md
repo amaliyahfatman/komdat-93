@@ -82,6 +82,20 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 ```
 
 4.Pengaturan Dropbox 
+```sh
+- Masuk ke akun dropbox dengan akun email anda
+- pilih "Developers" pada bagian footer dropbox atau pada tools
+- pilih "My Apps"
+- Klik button "Create App"
+- Pilih "Dropbox API"
+- Pilih "Full Dropbox-Access to all files and folders in a user's dropbox"
+- Isi nama app yang akan digunakan
+- Klik button "Create"
+- Isi kolom  Redirect URIs pada OAuth2, dengan format 	http://yourdomain.com/webmail/?external-services=dropbox 
+	 http://yourdomain.com/webmail/ .  Lalu Klik Add.
+	Contoh :http://localhost:8888/afterlogic/?external-services=dropbox
+- Klik "Apply"
+```
 
 5.Pengaturan akun afterlogic
 ```sh
