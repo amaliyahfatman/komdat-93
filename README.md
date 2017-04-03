@@ -114,6 +114,18 @@ Masuk akun:
   maka muncullah tampilan seperti berikut.
 
 
+Mengirim file  dengan webmail:
+1. Klik New Message
+2. Isi tujuan, subjeknya pada To dan Subject
+3. pilih file yang akan dikirim 
+4. kirim dengan klik SEND
+
+Mengirim email dari file drobox:
+1. Klik New Message
+2. Isi tujuan, subjeknya pada To dan Subject
+3. pilih file yang akan dikirim 
+4. Kirim dengan klik SEND
+
 
 ### Referensi
 1.[Webmail Lite] (https://afterlogic.org/webmail-lite) - Webmail lite
