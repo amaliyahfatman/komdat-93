@@ -129,6 +129,7 @@ Mengirim email dari file drobox:
 
 
 ### Referensi
-1.[Webmail Lite] (https://afterlogic.org/webmail-lite) - Webmail lite
+https://afterlogic.org/webmail-lite
+
 
 
