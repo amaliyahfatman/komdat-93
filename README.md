@@ -130,6 +130,16 @@ Mengirim email dari file drobox:
 4. Kirim dengan klik "SEND"
 
 
+### Kekurangan dan Kelebihan 
+Kelebihan :
+1. Dapat melakukan attachment file dalam keadaan offline
+2. Bebas dari spam dan iklan
+3. Dapat mengembalikan email yang telah dihapus
+
+Kekurangan :
+1. Tidak dapat melakukan sign up
+2. Harus melakukan setting terlebih dahulu pada server email yang digunakan
+
 ### Referensi
 https://afterlogic.org/webmail-lite
 
