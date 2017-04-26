@@ -1,4 +1,8 @@
 ## WEBMAIL LITE
+![N|Soild](https://1.bp.blogspot.com/-BuQ8l6spsH4/WQAFbWEhHkI/AAAAAAAAADg/w_42Zy1GY0sWcXxmEbaDva1MMrWpC1flQCLcB/s1600/logo.png)
+
+
+
 
 ### Sekilas Tentang
   Webmail lite adalah sebuah web based IMAP untuk webmail client kategori open source. Webmail lite dapat digunakan untuk mengakses email pada hampir semua IMAP diaktifkan mail server. Panel administrasi web yang terintegrasi memungkinkan anda untuk mengelola pengaturan sistem tanpa manual mengedit file konfigurasi.
