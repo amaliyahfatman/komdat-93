@@ -132,10 +132,12 @@ Mengirim file  dengan webmail:
 
 Mengirim email dari file drobox:
 1. Klik "New Message"
+![N|Soild](https://4.bp.blogspot.com/-EPgJ7kyd-L0/WP_-gCQFXUI/AAAAAAAAAA4/F-6RFzrdwBULByT_2ibw3DEjHGXYm5GyQCEw/s1600/pilih%2Bmanage%2Bal.png)
 2. Isi tujuan, subjeknya pada To dan Subject
-3. pilih file yang akan dikirim 
+3. pilih file yang akan dikirim
+![N|Soild](https://4.bp.blogspot.com/-TUXfR8Wcp9Y/WP_-n2i5u1I/AAAAAAAAACQ/G7wdpObgQpIoDb_JK1687_b0Bj0XaFV6ACEw/s1600/dropbox1.png) 
 4. Kirim dengan klik "SEND"
-
+![N|Soild](https://2.bp.blogspot.com/-1on6AtL92EA/WP_-cATfqQI/AAAAAAAAAAU/Z_SNcP2xD_EhS_vylDJB8z9a60ZsFFnfACEw/s1600/mau%2Bkirim%2Bdrop%2Bfile.png)
 
 ### Kekurangan dan Kelebihan 
 Kelebihan :
