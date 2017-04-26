@@ -110,18 +110,25 @@ Jika belum ada database maka lakukan pengaturan database pada Webmail lite
 Masuk akun:
 1. Buka diweb browser http://172.18.88.93/afterlogic/
 
-![N|Soild](http://i.imgur.com/masukgm.png)
+![N|Soild](https://4.bp.blogspot.com/-wjQ3l7HQkYU/WP_-cJZhwjI/AAAAAAAAAAQ/PLPpvenfnZkTpiGQlTbQeYmUNKkxTw9-QCEw/s1600/masukgm.png)
 
 2. Isi username dan password email. Pastikan akun email anda bisa diakses dengan web yang tidak aman.
 
+![N|Soild](https://4.bp.blogspot.com/-5eJ4Y1bZXsg/WP_-hMm3AeI/AAAAAAAAABE/aWaAaUH2FfYFTkwH13dsUJyM2QJ6Hr1-wCEw/s1600/Screenshot%2Bfrom%2B2017-04-02%2B13-26-32.png)
+
   maka muncullah tampilan seperti berikut.
+![N|Soild](https://4.bp.blogspot.com/-EPgJ7kyd-L0/WP_-gCQFXUI/AAAAAAAAAA4/F-6RFzrdwBULByT_2ibw3DEjHGXYm5GyQCEw/s1600/pilih%2Bmanage%2Bal.png)
 
 
 Mengirim file  dengan webmail:
 1. Klik "New Message"
+![N|Soild](https://4.bp.blogspot.com/-EPgJ7kyd-L0/WP_-gCQFXUI/AAAAAAAAAA4/F-6RFzrdwBULByT_2ibw3DEjHGXYm5GyQCEw/s1600/pilih%2Bmanage%2Bal.png)
 2. Isi tujuan, subjeknya pada To dan Subject
+![N|Soild](https://1.bp.blogspot.com/-Y1WzFssPUT8/WP_-uKX406I/AAAAAAAAADQ/UkbGazK_b9o3U-GBjiZ9MRhzKyT0RJpiACEw/s1600/kirim.png)
 3. pilih file yang akan dikirim 
+![N|Soild](https://1.bp.blogspot.com/-PvQmp9I33Lc/WP_-giD2neI/AAAAAAAAAA8/iFODRWBvKt0TKneCxKlE7fvDOIhO2_LawCEw/s1600/pilih%2Bfile.png)
 4. kirim dengan klik "SEND"
+![N|Soild](https://2.bp.blogspot.com/-WjccjbaixYo/WP_-kEFcIpI/AAAAAAAAABg/sPDxUOcgu04fFEF9II4_SFatiDT6MhxWwCEw/s1600/tampilan.png)
 
 Mengirim email dari file drobox:
 1. Klik "New Message"
